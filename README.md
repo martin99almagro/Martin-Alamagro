@@ -23,7 +23,7 @@ delete /proyectos/id
 
 delete /proyectos/id/tareas/id
 
-delete /empleados/x
+delete /empleados/ID
 
 delete /proyectos/id/tareas/id/empleados/id
 
