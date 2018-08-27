@@ -4,9 +4,9 @@ Martin-Almagro
 # Negocio:
 Administrador-de-proyectos.
 
-#ENDPOINTS.
-get /proyectos
-get /proyectos/id
+# ENDPOINTS. #
+get /proyectos #
+get /proyectos/id # 
 get /proyectos/id/tareas
 get /proyectos/id/tareas/id
 get /proyectos/id/tareas/id/empleados
