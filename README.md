@@ -52,7 +52,6 @@ put /empleados/id
 
 # ENTIDADES
 PROYECTO:
-
 Id
 Nombre
 Fecha-de-inicio
