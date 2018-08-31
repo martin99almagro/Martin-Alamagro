@@ -42,7 +42,7 @@ post /empleados/id
 
 post /proyectos/id/tareas/id/empleados/id
 
-Cod-err:404, 405, 411, 403
+Cod-err:404, 405, 411, 403, 409
 
 put /proyectos/id
 
